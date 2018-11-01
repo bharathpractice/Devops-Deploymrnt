@@ -1,1 +1,41 @@
 
+{
+	"Description": "who am i",
+	"scheduled_deploy": {
+        "enabled": "true"
+   	 },
+	"jenkins_slaves": {
+		"type": {
+			"spectra_generic": {
+				"label": "MySlaves"
+			},
+			"service_build_slave": {
+				"label": "UniversalSlave"
+			},
+			"cookbook_build_slave": {
+				"label": "UniversalSlave"
+			},
+			"service_deploy_pie_slave": {
+				"label": "AMIBuilder"
+			},
+			"service_deploy_stage_slave": {
+				"label": "StageDeployer-RoleBased"
+			},
+			"test_slave": {
+				"label": "CTF"
+			},
+			"db_deploy_pie_slave": {
+				"label": "DBSlave"
+			},
+			"db_deploy_stage_slave": {
+				"label": "StageDeployer-RoleBased"
+			},
+			"site_builder_slave": {
+				"label": "projectsite1"
+			},
+			"java_1_8_slave": {
+				"label": "Sonar"
+			}
+		}
+	}
+}
