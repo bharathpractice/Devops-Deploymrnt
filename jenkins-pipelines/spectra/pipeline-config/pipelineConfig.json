@@ -13,7 +13,7 @@
 				"label": "UniversalSlave"
 			},
 			"cookbook_build_slave": {
-				"label": "UniversalSlave"
+				"label": "MySlaves"
 			},
 			"service_deploy_pie_slave": {
 				"label": "AMIBuilder"
