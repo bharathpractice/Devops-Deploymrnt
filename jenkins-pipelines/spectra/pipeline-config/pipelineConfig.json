@@ -47,7 +47,6 @@
 		}
 	},
 	"build_artifacts":{
-		"build_artifacts":{
 		"service":{
 			"code":{
 				"git_url":"1",
@@ -151,8 +150,6 @@
 				"root_pom_path":"1",
 				"repo_url":"1",
 				"artifact_id":"1"
-			}
-			
 			}
 		}
 	},
