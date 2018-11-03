@@ -152,7 +152,23 @@
 				"repo_url":"",
 				"artifact_id":""
 			}
-		
+			
+			}
+		}
+	},
+	"pipeline_jobs": {
+		"buildConfig": {
+			"build_node": "Slave1"
+			},
+		"buildAMI": {
+			"databag_secret_local_path": "",
+			"databag_secret_remote_path": "",
+			"ssh_key": ""
+			},
+		"gatedBuildAMI": {
+			"databag_secret_local_path": "",
+			"databag_secret_remote_path": "",
+			"ssh_key": ""
+			}
 		}
 	}
-}
