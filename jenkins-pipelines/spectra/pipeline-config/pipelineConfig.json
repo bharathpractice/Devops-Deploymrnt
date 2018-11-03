@@ -50,107 +50,107 @@
 		"build_artifacts":{
 		"service":{
 			"code":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"cookbook":{
 				"git_url":"https://github.com/bharathpractice/spectra-service.git",
-				"git_credentials_id":"",
+				"git_credentials_id":"1",
 				"root_pom_path":"spectra-service/deployment/spectra_service_repo/cookbooks/spectra_service/pom.xml",
 				"repo_url":"http://13.233.126.201:8081/nexus/content/repositories/devops-releases/",
 				"artifact_id":"spectra-service-cookbook"
 			},
 			"databags_and_environments":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"ami":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"cloudformation":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"release":{
 				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			}
 		},
 		"config":{
 			"code":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"cookbook":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"databags_and_environments":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"release":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			}
 		
 		},
 		"database":{
 			"code":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"cookbook":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"databags_and_environments":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			},
 			"release":{
-				"git_url":"",
-				"git_credentials_id":"",
-				"root_pom_path":"",
-				"repo_url":"",
-				"artifact_id":""
+				"git_url":"1",
+				"git_credentials_id":"1",
+				"root_pom_path":"1",
+				"repo_url":"1",
+				"artifact_id":"1"
 			}
 			
 			}
@@ -161,14 +161,14 @@
 			"build_node": "Slave1"
 			},
 		"buildAMI": {
-			"databag_secret_local_path": "",
-			"databag_secret_remote_path": "",
-			"ssh_key": ""
+			"databag_secret_local_path": "1",
+			"databag_secret_remote_path": "1",
+			"ssh_key": "1"
 			},
 		"gatedBuildAMI": {
-			"databag_secret_local_path": "",
-			"databag_secret_remote_path": "",
-			"ssh_key": ""
+			"databag_secret_local_path": "1",
+			"databag_secret_remote_path": "1",
+			"ssh_key": "1"
 			}
 		}
 	}
