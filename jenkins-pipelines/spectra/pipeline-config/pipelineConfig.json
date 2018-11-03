@@ -92,7 +92,7 @@
 				"artifact_id":""
 			}
 		},
-		"config"{
+		"config":{
 			"code":{
 				"git_url":"",
 				"git_credentials_id":"",
