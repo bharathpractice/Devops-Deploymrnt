@@ -93,7 +93,7 @@
 			}
 		},
 		"config"{
-		"code":{
+			"code":{
 				"git_url":"",
 				"git_credentials_id":"",
 				"root_pom_path":"",
