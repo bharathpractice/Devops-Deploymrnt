@@ -41,8 +41,10 @@
 	"notification":{
 		"profile":{
 			"default":{
-			"on_success":"bharathpuni7@gmail.com",
-			"on_failure":"bharathpuni7@gmail.com"
+				"email_recipients": {
+					"on_success":"bharathpuni7@gmail.com",
+					"on_failure":"bharathpuni7@gmail.com"
+				}
 			}
 		}
 	},
